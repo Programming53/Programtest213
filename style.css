@@ -1,0 +1,20 @@
+/* style.css */
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #Title {
+    font-size: 50px;
+  }
+
+  #Receptai {
+    font-size: 40px;
+    color: greenyellow
+  }
+  
+  body {
+    background-image: url("https://www.eatright.org/-/media/images/eatright-landing-pages/foodgroupslp_804x482.jpg?as=0&w=967&rev=d0d1ce321d944bbe82024fff81c938e7&hash=E6474C8EFC5BE5F0DA9C32D4A797D10D");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
